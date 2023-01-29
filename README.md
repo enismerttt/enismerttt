@@ -2,11 +2,10 @@
 [<img align="right" src="https://i.imgur.com/mVIr207.gif" alt="Coder GIF" height="280">][myprofile]
 <hr/>
 
-### I am into Big Data/Data Engineering/BI, Data Science and Machine Learning. Currently I am a freelancer and a researcher.
-- 🔭 I just tried to make a readme file for my github account.<br />
+### I am into Big Data/Data Engineering, Data Science and Machine Learning.
 - 🌱 I’m currently learning Data Engineering.<br />
-- 👯 I want to be a Data Engineer.<br />
 - 🥅 2022 Goals: Finish the Develhope Data Engineering Course.<br />
+- 🥅 2023 Goals: Start a full-time job as a Data Engineer and expand your technical knowledge by doing freelance works.<br />
 <br/>
 <hr/>
 
